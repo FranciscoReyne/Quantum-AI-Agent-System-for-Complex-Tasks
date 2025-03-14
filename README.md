@@ -1,6 +1,6 @@
 # **Project: Quantum AI Agent System for Complex Tasks**  
 
-**Python will be the main language**, with **Q#** support if running on **Azure Quantum**. The combination of **Qiskit, Pennylane, and Braket** will allow interaction with different quantum platforms depending on availability and requirements. 🚀
+
 
 ## **📌 General Objective**  
 Develop a **Quantum AI Agent System** capable of:  
@@ -10,7 +10,7 @@ Develop a **Quantum AI Agent System** capable of:
 
 This approach leverages quantum computing in all phases to enhance **efficiency and accuracy** in solving complex problems.  
 
-
+**Python will be the main language**, with **Q#** support if running on **Azure Quantum**. The combination of **Qiskit, Pennylane, and Braket** will allow interaction with different quantum platforms depending on availability and requirements. 🚀
 
 ---
 
